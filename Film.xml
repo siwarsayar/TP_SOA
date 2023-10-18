@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Cinema>
+  <film id="lb78"  type="comédie">
+    <titre>Les Bronzers</titre>
+    <année>1978</année>
+    <realisateur>Patrice Lecontre</realisateur>
+    <role><nom>Popeye</nom><acteur>Thierry Lhermite</acteur></role>
+    <role><nom>Jean-Claude Dusse</nom><acteur>Micheal Blanc</acteur></role>
+    
+  </film>
+ 
+   <film id="gf94" type="comédie">
+    <titre>Grosse fatigue</titre>
+    <année>1994</année>
+    <realisateur>Micheal Blanc</realisateur>
+    <role><nom>Patric Olivier</nom><acteur>Micheal Blanc</acteur></role>
+    <role><nom>Carole Bouquet</nom><acteur>Carole Bouquet</acteur></role>
+    
+  </film> <producteur>
+    <nom>Daniel Toscan du Plantier</nom>
+    <film type="gf94"> </film>
+  </producteur>
+  <producteur>
+    <nom>Yves Rousset-Rouard</nom>
+    <film type="lb78"/> 
+  </producteur>
+</Cinema>
